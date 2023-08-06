@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+  background-color: rgb(67, 67, 138);
+  color: white;
+}
+
+img {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  margin: 0px 510px;
+  padding: 50px 0px;
+}
+
+.main-wrapper {
+  width: 60%;
+  margin: 100px auto;
+  margin: 0px 510px;
+  padding: 50px 0px;
+}
+
+.main-wrapper h1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 40px;
+  border-bottom: 2px solid #ddd;
+  margin: 0px 510px;
+  padding: 50px 0px;
+}
+.main-wrapper p {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font: 22px;
+  border-left: 4px solid #ddd;
+  padding-left: 10px;
+  margin: 0px 510px;
+  padding: 50px 0px;
+}
+.Portoflio td {
+  width: 220px;
+  text-align: center;
+  margin: 0px 510px;
+  padding: 50px 0px;
+}
+.card {
+  padding: 20px 0px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
+    rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+  margin: 10px;
+}
+
+.Portoflio a {
+  color: black;
+  text-decoration: none;
+}
+.Portoflio {
+  margin-top: 20px;
+}
+.Portoflio > h4 {
+  font-size: 28px;
+  text-align: center;
+}
